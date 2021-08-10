@@ -1,4 +1,5 @@
 # Introduce
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Basilry_Kim&fontSize=50)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
