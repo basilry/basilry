@@ -53,5 +53,8 @@
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>
 
-
+<br>
+  
+## 😵‍💫 현재 학습하고 있어요!
+스케치, 어도비xd
 
