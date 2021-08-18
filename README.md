@@ -58,4 +58,5 @@
 ## 😵‍💫 현재 학습하고 있어요!
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a>
+<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 
