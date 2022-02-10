@@ -58,12 +58,12 @@
 ## 😅 추가적인 학습이 필요해요!
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>
+<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Adobe-XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
+<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a>
 
 <br>
   
 ## 😵‍💫 현재 학습하고 있어요!
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Adobe-XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
