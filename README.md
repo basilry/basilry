@@ -47,7 +47,6 @@
 <br>
   
 ## 😉 배웠지만 복습이 필요해요!
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
@@ -65,5 +64,6 @@
   
 ## 😵‍💫 현재 학습하고 있어요!
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 
