@@ -4,9 +4,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/basilry/)
 
 <br>
-
+    
 # 🥳 Introduce
 
+  <div align=left>
+  
   안녕하세요! 🙋‍♂️
   <br>
   문과 중 문과인 법대를 졸업하고 공군 학사 행정장교로 중위 만기제대를 하였습니다.
@@ -18,7 +20,8 @@
   이후 '21년 9월부터 현재까지 여의도에 있는 GC 계열의 자회사에서 웹 솔루션 프론트엔드 파트를 맡아 개발을 진행 중에 있습니다.
   <br>
   그리고 앞으로도 계속 진정한 IT 개발자로 거듭나고자 하는 프론트엔드 개발자 김바실리입니다! 😁
-  
+  </div>
+    
 <br>
 
 # 🔧 Skill Stacks
