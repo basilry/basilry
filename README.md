@@ -17,7 +17,7 @@
   <br>
   '21년 7월 말에는 코드스테이츠 소프트웨어 엔지니어링 20주 부트캠프 과정을 수료하였습니다.
   <br>
-  이후 '21년 9월부터 현재까지 여의도에 있는 GC 계열의 자회사에서 웹 솔루션 프론트엔드 파트를 맡아 개발을 진행 중에 있습니다.
+  이후 '21년 9월부터 현재까지 여의도에 있는 GC 계열의 자회사에서 요양기관 솔루션의 웹 프론트엔드 파트를 맡아 개발을 진행 중에 있습니다.
   <br>
   그리고 앞으로도 계속 진정한 IT 개발자로 거듭나고자 하는 프론트엔드 개발자 김바실리입니다! 😁
   </div>
@@ -68,5 +68,4 @@
 ## 😵‍💫 현재 학습하고 있어요!
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-
 
