@@ -51,6 +51,7 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 - Common
   - Git, Github, Gitlab
   - Jira, Figma, Slack
+  - Linux, Ubuntu, MacOS, Windows
 
 <br />
 
@@ -65,6 +66,8 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 - Back End
   - Java, Python
   - STS, Spring
+  - MySQL
+  - WorkBench, DBeaver
  
 <br />
 
