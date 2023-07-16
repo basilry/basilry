@@ -1,71 +1,87 @@
-<div align=center>
+![i16172277693](https://github.com/basilry/basilry/assets/78642147/d530b790-436f-4db2-b2ee-53ac20fa1c80)
+<br />
+(배포..해야지..)
+<br />
+<br />
+<br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=FrontEnd😈BasilryKim&fontSize=70)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/basilry/)
 
-<br>
-    
-# 🥳 Introduce
+## Hello!
 
-  <div align=left>
-  
-  안녕하세요! 🙋‍♂️
-  <br>
-  문과 중 문과인 법대를 졸업하고 공군 학사 행정장교로 중위 만기제대를 하였습니다.
-  <br>
-  요식업계에서 동업을 하다가 급변하는 현 세태에 발맞추어서 정리를 하였고,
-  <br>
-  '21년 7월 말에는 코드스테이츠 소프트웨어 엔지니어링 20주 부트캠프 과정을 수료하였습니다.
-  <br>
-  이후 '21년 9월부터 현재까지 여의도에 있는 GC 계열의 자회사에서 요양기관 솔루션의 웹 프론트엔드 파트를 맡아 개발을 진행 중에 있습니다.
-  <br>
-  그리고 앞으로도 계속 진정한 IT 개발자로 거듭나고자 하는 프론트엔드 개발자입니다! 😁
-  </div>
-    
-<br>
+안녕하세요!
+<br />
+<br />
+커리어 처음에는 동적인 화면이 좋아 프론트엔드를 지향하여 
+<br />
+React.js를 기반으로 Next, Scss, Redux 등의 스택을 실무에서 사용하고 있습니다만,
+<br />
+<br />
+최근에는 AWS, Docker, Jenkins 등 인프라와 DevSecOps에 관심이 많아져서 
+<br />
+자격증 외 지속적인 학습을 진행하고 있는 'DepSecOps 지향 개발자'인 '김바실리'입니다! 😁
+<br />
+<br />
+현재 Python과 AWS를 위주로 주력을 강화하는 중입니다! 😂
+<br />
+<br />
+ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 밟고 싶습니다..!
 
-# 🔧 Skill Stacks
 
-## 👌 실무에서 바로 적용가능해요!
-<a href="https://ko.javascript.info/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-  
-<a href="https://ko.reactjs.org/docs/hello-world.html" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://reactrouter.com/web/guides/quick-start" target="_blank"><img src="https://img.shields.io/badge/React-Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
+<br />
+<br />
 
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 
-<br>
-  
-<br>
-  
-## 😉 배웠지만 복습이 필요해요!
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
-  
-<br>
+## Career now
 
-## 😅 추가적인 학습이 필요해요!
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Adobe-XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a>
+- 2012.03. ~ 2017.02. | 홍익대학교 법과대학 법학 학사 졸업
+- 2017.02. ~ 2020.05. | 대한민국 공군 학사장교 제138기 단기복무 중위 제대
+- 2020.08. ~ 2021.02. | 강화도 퓨전한식 요식업 창업
+- 2021.03. ~ 2021.07. | 사설 소프트웨어 엔지니어링 부트캠프 수료
+- 2021.07. ~ 2021.09. | 헬코더스 면접/알고리즘 스터디 모집 및 진행
+- 2021.09. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | GC케어 계열 자회사 헥톤프로젝트 웹 개발자 재직 중
+- 2022.09. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | 한국방송통신대학교 컴퓨터과학과 학사편입 후 재학 중
 
-<br>
-  
-## 😵‍💫 현재 학습하고 있어요!
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://blog.naver.com/basilry" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
+<br />
+<br />
+
+
+## Skill stacks
+
+- Common
+  - Git, Github, Gitlab
+  - Jira, Figma, Slack
+
+<br />
+
+- Front End
+  - JavaScript, TypeScript
+  - React.js, Next.js, Redux, @redux/toolkit
+  - Scss, Styles-Components
+  - lodash, momentjs, axios, etc..
+
+<br />
+
+- Back End
+  - Java, Python
+  - STS, Spring
+ 
+<br />
+
+- Infra
+  - AWS(EC2, S3, RDS, ELB)
+  - Jenkins, SonarQube
+  - Docker
+
+
+<br />
+<br />
+
+
+## Updated History
+
+- 2023.07.16.
+
+<br />
+
+---
