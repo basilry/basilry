@@ -57,9 +57,10 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 
 - Front End
   - JavaScript, TypeScript
-  - React.js, Next.js, Redux, @redux/toolkit
-  - Scss, Styles-Components
-  - lodash, momentjs, axios, etc..
+  - React.js, Next.js
+  - Redux, @redux/toolkit, Zustand
+  - Scss, Styles-Components, Styled-jsx
+  - lodash, momentjs, dayjs, axios, etc..
 
 <br />
 
@@ -84,6 +85,7 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 ## Updated History
 
 - 2023.07.16.
+- 2023.08.11.
 
 <br />
 
