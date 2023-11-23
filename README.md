@@ -46,6 +46,80 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 <br />
 
 
+## Projects
+
+### 2021.12. ~ 2022.01. | 또하나의가족 솔루션 Admin 개발
+  - Explain
+    - 백오피스 프로젝트 관리자 시스템의 기본적인 메뉴/마스터코드/권한 관리 기능 개발
+  - Position
+    - FrontEnd Dev
+  - Stacks
+    - TypeScript, Next.js 12v, SCSS
+  - T.O
+    - F/E 1명
+
+<br />
+
+### 2022.01. ~ 2023.02. | 또하나의가족 솔루션 프로토타입 개발
+  - Explain
+    - 요양기관 내 어르신 대상 장기요양 행위를 기록하고 시설을 관리하는 백오피스 프로젝트
+  - Position
+    - FrontEnd Lead(Main)
+    - Procedure Query(Sub), Infra Cloud(Sub)
+  - Stacks
+    - TypeScript, Next.js 12v, SCSS, Redux, ESLint, Prettier, Kendo UI, MySQL, AWS(EC2, ELB..)
+  - T.O
+    - F/E 4명
+    - B/E 2명
+
+<br />
+
+ ### 2023.07. ~ 2023.09. | 또하나의가족 솔루션 리뉴얼 개발
+  - Explain
+    - 장기요양보험공단의 대규모 고시 변경으로 인한 비즈니스 로직 및 기능 다수의 변경 필요성 존재로 리뉴얼 진행
+    - 프론트엔드 시니어 개발자 채용으로 인한 리드 업무 이관
+  - Position
+    - FrontEnd Dev
+  - Stacks
+    - TypeScript, Next.js 13v, SCSS, Zustand, ESLint, Prettier, MySQL, AWS(EC2, ELB..)
+  - T.O
+    - F/E 3명
+    - B/E 2명
+
+<br />
+
+ ### 2023.09. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | 또하나의가족 돌봄노트 개발
+  - Explain
+    - 타사 솔루션과 연동되는 요양기관 가정통신문 및 어르신 요양기록을 확인하는 모바일 웹 프로젝트
+    - 회사 사업 방향성 변화로 인해 투입 및 프론트엔드 리드 진행
+    - 프로젝트 구조 설계, 기획 분석 후 컴포넌트 분석 설계, Wrapper를 통한 에러핸들링과 Suspense Loading 처리 외 다수
+  - Position
+    - FrontEnd Lead
+  - Stacks
+    - TypeScript, Next.js 13v, SCSS, Zustand, ESLint, Prettier
+  - T.O
+    - F/E 2명
+    - B/E 2명
+   
+<br />
+
+ ### 2023.11. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | 사이드 프로젝트 진행 - 가칭 Quest UP
+  - Explain
+    - TODO list 기반으로, 인플루언서가 선한 영향력을 행사하고 팔로워들도 긍정적인 모습으로 변화할 수 있는 모바일 애플리케이션
+  - Position
+    - FrontEnd Lead(Main)
+    - BackEnd Dev(Sub), Infra Cloud(Sub)
+  - Stacks
+    - 미정
+  - T.O
+    - F/E 1명
+    - B/E 1명
+
+
+<br />
+<br />
+
+
 ## Skill stacks
 
 - Common
@@ -65,8 +139,8 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 <br />
 
 - Back End
-  - Java, Python
-  - STS, Spring
+  - Node.js, Express
+  - Python
   - MySQL
   - WorkBench, DBeaver
  
@@ -86,6 +160,7 @@ ps. 추후에 여력이 된다면 인공지능 관련 대학원 석사과정을 
 
 - 2023.07.16.
 - 2023.08.11.
+- 2023.11.24.
 
 <br />
 
