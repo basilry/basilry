@@ -48,7 +48,7 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 
 ## Projects
 
-### 2021.12. ~ 2023.06. | 또하나의가족 솔루션, 신규 프로토타입 개발
+### 2021.12. ~ 2023.06. | 또하나의가족 솔루션, 신규 개발
   - 프로젝트 기간
     - 약 1년 6개월
   - 설명
@@ -131,6 +131,38 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
     - B/E 2명
 
 
+<br />
+
+ ### 2024.02. ~ 2024.03 | 또하나의가족 통합관리시스템 - 수급자 조회 & 회원가입 & 직원 관리 파트, 신규 개발
+  - 프로젝트 기간
+    - 약 2개월
+  - 설명
+    - 자사에서 인수한 복지용구 사업소 내부 및 외부 영업사원 관리 백오피스 모바일 웹 프로젝트
+  - 역할
+    - 풀스택 개발자
+  - 성과
+    1. 프론트엔드 | 정량적인 개발 성과 기여
+        - 수급자 조회, 직원 입사허용/입사거절/퇴사 처리, 직원 상세 조회 등의 신규 기능개발을 위해 페이지 및 컴포넌트 작성 
+        - 디자이너와 피그마를 통한 협업으로 시안과 통일성 있는 스타일링 적용
+    2. 프론트엔드 | 공통 컴포넌트 리팩토링
+        - Table, DateRangePicker 등 공통 컴포넌트 중 기능이 부족한 컴포넌트들을 담당받아 완결성 있게끔 처리
+    3. 백엔드 | 정량적인 개발 성과 기여
+        - 수급자 조회, 직원 비밀번호/휴대폰번호 변경, 고객 목록 조회, 고객 검색 조회 등의 신규 기능개발을 위해 controller, dto, service 개발
+        - 포스트맨을 통해 화면을 개발한 프론트엔드 개발자와 지속적으로 협업 진행하며 동기화
+    4. 장기요양공단 스크래핑 모듈 API 프로젝트 서버와의 통신 및 F/E, B/E 연계 전반 담당
+        - 클라이언트에서 API 서버로 조회 파라미터 값을 보내게 되면 HashMap, ObjectMapper으로 데이터 바인딩 하여 RestTemplate을 통해 스크래핑 모듈 API로 송신
+        - 스크래핑 모듈 API에서 수신한 데이터는 재차 ObjectMapper로 받아 JsonNode로 파싱 후 클라이언트로 API 송신 처리
+        - 클라이언트에서는 API 서버에서 수신한 데이터를 통해 조회 처리
+  - 사용스택
+    - F/E: TypeScript, Next.js 13v, Emotion, React-Query, Zustand, ESLint, Prettier, MUI
+    - B/E: Java 17, SpringBoot, JPA, Hibernate, QueryDsl, MSSQL
+  - 프로젝트 인원
+    - PM 1명
+    - F/E 3명(PL 1명 포함)
+    - B/E 3명(PL 1명 포함)
+
+
+
 
 <br />
 <br />
@@ -147,7 +179,7 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 
 - Front End
   - JavaScript, TypeScript
-  - React.js, Next.js
+  - React.js, Next.js, React-Query
   - Redux, @redux/toolkit, Zustand
   - Scss, Styles-Components, Styled-jsx
   - lodash, momentjs, dayjs, axios, etc..
@@ -156,8 +188,9 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 
 - Back End
   - Node.js, Express
+  - Java 17, SpringBoot, JPA, Hibernate, QueryDsl
   - Python
-  - MySQL, MongoDB
+  - MySQL, MongoDB, MSSQL
   - WorkBench, DBeaver
  
 <br />
@@ -178,6 +211,7 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 - 2023.08.11.
 - 2023.11.24.
 - 2024.01.07.
+- 2024.03.01.
 
 <br />
 
