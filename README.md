@@ -1,30 +1,61 @@
-![i16172277693](https://github.com/basilry/basilry/assets/78642147/d530b790-436f-4db2-b2ee-53ac20fa1c80)
+
 <br />
-(배포..해야지..)
-<br />
+<!-- Frontend & Language -->
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emotion-C76FFF?style=for-the-badge&logo=emotion&logoColor=white" />
+  <!-- State Management & API -->
+  <img src="https://img.shields.io/badge/Zustand-FF9E0F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <!-- Back-End -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/QueryDSL-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge" />
+  <!-- Infra -->
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 <br />
 <br />
 
 
 ## Hello!
 안녕하세요! :)
-<br />
-<br />
-언젠가 대한민국의 IT유니콘 중 당당하게 한 자리를 차지한 기업을 만들고 싶은 '김바실리'입니다!!
-<br />
-<br />
-처음에는 동적인 화면이 좋아 프론트엔드 개발자를 지향하였고, 커리어 시작 이후에는 React.js를 기반으로 Ne
-xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니다. 개발을 지속하다보니 백엔드에 관해
-서도 관심이 생겨서 Node.js와 AWS, CS 관련 학습도 꾸준히 진행 중입니다.
-<br />
-<br />
-저는 프론트엔드의 틀에만 갇혀 있지 않고 백엔드와 인프라도 모두 알 수 있어야 진정한 개발자라고 생각합니다.
-처음 '풀스택'이라는 말을 들었을 때는 '말도 안된다'거나 '허상이다'라고 생각했었습니다만, 필드에서 2년 넘게
-개발을 하다보니 개발과 관련된 전 분야를 망라해야 개발자로서의 가치를 증명할 수 있다고 봅니다.
-<br />
-<br />
-언젠가는 오롯이 혼자서 프로젝트 구조설계, 화면 개발, 에러핸들링, 서버 구축, 보안, 인프라 구축까지 할 수 있
-게끔 실력을 키우고 싶습니다! ;)
+<br/>
+<br/>
+본래 저는 문과 중 문과인 홍익대학교에서 법학부를 전공하였습니다. 학부 졸업 후 공군 인사교육 행정 장교로 3년간 복무하였고, 2019년 12월에는 열심히 노력
+한 결과를 인정받아서 공군제18전투비행단으로부터 준장급 개인 표창을 받았습니다. 이와 같은 수상 경험을 통해 협업과 리더십 능력을 키우며 더 나은 결과물을
+만들어 내고자, 그리고 그 과정 역시 최선을 다하고자 항상 노력합니다.
+<br/>
+<br/>
+헥톤프로젝트에서의 3년간 웹 풀스택 개발 경력을 갖고, 코드잇으로의 이직을 통해 다양한 프로그래밍 언어와 기술을 숙련하고 지식을 공유할 수 있는 기회를 얻
+었습니다. 이러한 경험들을 통해 전반적인 프론트엔드부터 백엔드, 클라우드 인프라까지 넓은 범위의 개발 경험을 쌓으면서 문제해결능력을 키우고 있습니다. 또
+한, 주기적으로 AWS Summit과 헬스테크 박람회, 한국소프트웨어대전 등 다양한 컨퍼런스와 세미나에도 참석하며 트렌드에 민감해지려 합니다.
+<br/>
+<br/>
+앞으로도 이러한 웹 풀스택 개발 역량을 넘어서 귀사에서 목표하고자하는 업무에 최선을 다해 기여함과 동시에, 좋은 동료들 및 회사와 함께 지속적이고 끊임없이
+성장하고 싶습니다.
+<br/>
+<br/>
+감사합니다.
 
 
 <br />
@@ -38,262 +69,10 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 - 2020.08. ~ 2021.02. | 강화도 퓨전한식 요식업 창업
 - 2021.03. ~ 2021.07. | 사설 소프트웨어 엔지니어링 부트캠프 수료
 - 2021.07. ~ 2021.09. | 헬코더스 면접/알고리즘 스터디 모집 및 진행
-- 2021.09. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | GC케어 계열 자회사 헥톤프로젝트 웹 개발자 재직 중
+- 2021.09. ~ 2024.09. | GC케어 계열 자회사 헥톤프로젝트 웹 개발자(정규직)
 - 2022.09. ~ 현&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;재 | 한국방송통신대학교 컴퓨터과학과 학사편입 후 재학 중
+- 2024.09. ~ 2025.04. | 코드잇 풀스택 스프린트 디비전(부트캠프) 주강사(프리랜서)
 
-
-<br />
-<br />
-
-
-## Projects
-
-### 2021.12. ~ 2023.06. | 또하나의가족 솔루션, 신규 개발
-<details>
-  <summary>상세 보기</summary>
-  
-  - 프로젝트 기간
-    - 약 1년 6개월
-  - 설명
-    - 요양기관 내 어르신 대상 장기요양 행위를 기록하고 시설을 관리하는 백오피스 솔루션 프로젝트
-  - 역할
-    - 주) 프론트엔드 개발자
-    - 부) 프로시저 쿼리 개발, AWS 인프라 이슈 확인 및 F/E 및 B/E 검증서버 구축
-  - 성과
-    1. 프로젝트 관리자 시스템 개발
-        - 기본적인 메뉴, 마스터코드, 권한 관리 기능 개발을 통한 프로젝트 관리 강화.
-    2. 프로젝트의 정량적인 개발 성과 기여
-        - 총 84개 페이지 중 31개 신규 페이지 개발 및 프로시저 쿼리 개발, 프론트엔드와 백엔드 모두에서 기여
-        - AWS EC2 서버 및 ELB 관리, 검증서버 구축으로 프로젝트 인프라 관리 향상.
-    3. 코드 품질 및 개발 속도 향상
-        - Prettier, ESLint, SonarQube를 통한 코드 품질 관리, 정적분석 수정사항 지속 반영
-        - B/E 프로시저 공통모듈화 11건, F/E 공통모듈화 43건 수행하여 프로젝트 개발 속도 향상
-    4. 프로젝트 전체 품질 및 협업 강화
-        - 지속적인 소스 코드 및 쿼리 리팩토링으로 프로젝트 품질 향상
-        - Notion을 통한 기술 및 트러블슈팅 공유로 커뮤니케이션 활성화
-        - 스크럼 회의록 작성 및 공유로 팀 내 협업 강화
-  - 사용스택
-    - TypeScript, Next.js 12v, Sass, Redux, Prettier, ESLint, MySQL, AWS(EC2, ELB..)
-    - Kendo UI, OzViewer
-  - 프로젝트 인원
-    - F/E 4명
-    - B/E 2명
-</details>
-
-<br />
-
- ### 2023.07. ~ 2023.09. | 또하나의가족 솔루션, 리뉴얼 개발
- <details>
-  <summary>상세 보기</summary>
-   
-  - 프로젝트 기간
-    - 약 3개월
-  - 설명
-    - 장기요양보험공단의 고시 변경으로 인한 비즈니스 로직 및 기능 다수의 변경 필요성 존재로 프로젝트 리뉴얼 진행
-    - 회사 사업 방향성 변화로 프로젝트 '보류'
-  - 역할
-    - 프론트엔드 개발자
-  - 성과
-    1. 프로젝트 구조 및 컴포넌트 개발
-        - 프로젝트의 폴더 및 파일 구조 설계에 참여하여 전체 시스템의 안정성 강화.
-        - 아토믹 디자인 원칙에 기반하여 원자(Atoms) 71개, 분자(Molecules) 38개, 모달(Modals) 31개의 공통 컴포넌트 분류 및 설계를 수행, 프로젝트 개발 속도 및 안정성 향상에 기여.
-        - 샘플링 페이지 개발로 사용자 경험 개선 및 디자인 일관성 유지에 기여.
-  - 사용스택
-    - TypeScript, Next.js 13v, Sass, Zustand, Prettier, ESLint, MySQL, AWS(EC2,ELB..)
-  - 프로젝트 인원
-    - F/E 3명
-    - B/E 2명
- </details>
-
-<br />
-
- ### 2023.09. ~ 2024.01 | 또하나의가족 돌봄노트, 신규 개발
-<details>
-  <summary>상세 보기</summary>
- 
-  - 프로젝트 기간
-    - 약 5개월
-  - 설명
-    - 타사 솔루션과 연동되는 요양기관 가정통신문 및 어르신 요양기록을 확인하는 모바일 웹 프로젝트
-  - 역할
-    - 프론트엔드 개발자
-  - 성과
-    1. 프로젝트 관리 및 커뮤니케이션
-        - 프론트엔드 WBS 작성 및 개발 전반 관리로 프로젝트 팀의 커뮤니케이션 및 협업 효율성 향상
-        - 팀원 간 협업을 최적화하고 작업 효율성을 극대화하기 위한 관리 및 조정 역할 수행
-    2. 개발 환경 및 시스템 안정성 강화
-        - 프로젝트의 폴더 및 파일 구조 설계를 전담, 개발 환경 구축 및 전체 시스템 안정성 강화
-    3. 프로젝트의 정량적인 개발 성과 기여
-        - 아토믹 디자인 원칙을 적용한 공통 컴포넌트 분류 및 개발로 UI 개발의 일관성 및 효율성 증진
-        - Zustand 기반 중앙 상태관리 및 Axios를 활용한 API 서비스 개발로 데이터 관리 및 서버 연동 강화
-    4. 개발 속도 및 안정성 향상
-        - 다양한 util(cookie.ts, constants.ts, common.ts, bridge.ts 등) 및 커스텀 훅 개발로 프로젝트 개발 속도 향상
-        - types 폴더 구성 및 내부 공통 타입/인터페이스 module화 하여 23개의 .d.ts 파일로 관리 및 16개의 init 파일 구성으로 프로젝트 안정성 강화
-        - ErrorBoundary 등 커스텀 에러 페이지를 통한 에러핸들링 및 Suspense Loading 처리와 같은 레이아웃 단위 관리 수행으로 UX 측면의 안정성 향상
-    5. 협업 및 프로젝트 기여
-        - 모바일 네이티브 앱과의 협업으로 연동 및 전체 프로젝트의 주요 페이지 개발로 정량적 성과
-    기여
-  - 사용스택
-    - TypeScript, Next.js 13v, Sass, Zustand, ESLint, Prettier
-  - 프로젝트 인원
-    - F/E 2명
-    - B/E 2명
-
-</details>
-
-
-<br />
-
- ### 2024.02. ~ 2024.03 | 또하나의가족 통합관리시스템 - 수급자 조회 & 회원가입 & 직원 관리 파트, 신규 개발
-<details>
-  <summary>상세 보기</summary>
- 
-  - 프로젝트 기간
-    - 약 2개월
-  - 설명
-    - 자사에서 인수한 복지용구 사업소 내부 및 외부 영업사원 관리 백오피스 모바일 웹 프로젝트
-  - 역할
-    - 풀스택 개발자
-  - 성과
-    1. 프론트엔드 | 정량적인 개발 성과 기여
-        - 수급자 조회, 직원 입사허용/입사거절/퇴사 처리, 직원 상세 조회 등의 신규 기능개발을 위해 페이지 및 컴포넌트 작성 
-        - 디자이너와 피그마를 통한 협업으로 시안과 통일성 있는 스타일링 적용
-    2. 프론트엔드 | 공통 컴포넌트 리팩토링
-        - Table, DateRangePicker 등 공통 컴포넌트 중 기능이 부족한 컴포넌트들을 담당받아 완결성 있게끔 처리
-    3. 백엔드 | 정량적인 개발 성과 기여
-        - 수급자 조회, 직원 비밀번호/휴대폰번호 변경, 고객 목록 조회, 고객 검색 조회 등의 신규 기능개발을 위해 controller, dto, service 개발
-        - 포스트맨을 통해 화면을 개발한 프론트엔드 개발자와 지속적으로 협업 진행하며 동기화
-    4. 장기요양공단 스크래핑 모듈 API 프로젝트 서버와의 통신 및 F/E, B/E 연계 전반 담당
-        - 클라이언트에서 API 서버로 조회 파라미터 값을 보내게 되면 HashMap, ObjectMapper으로 데이터 바인딩 하여 RestTemplate을 통해 스크래핑 모듈 API로 송신
-        - 스크래핑 모듈 API에서 수신한 데이터는 재차 ObjectMapper로 받아 JsonNode로 파싱 후 클라이언트로 API 송신 처리
-        - 클라이언트에서는 API 서버에서 수신한 데이터를 통해 조회 처리
-    5. 단위 테스트 이후 프론트 프로젝트 전반에 적용되는 피드백 적용 담당
-        - 각 인풋 엘리먼트의 validation을 위해 react-imask 처리를 이름/사번/휴대번호/인정번호 등으로 세분화하여 구성 및 적용
-        - react-hook-form이 적용된 부분의 각 페이지별 선언부에 해당 데이터 적용에 대한 라이프사이클 시점을 onBlur로 조정 외 다수 처리 진행
-  - 사용스택
-    - F/E: TypeScript, Next.js 13v, Emotion, React-Query, Zustand, ESLint, Prettier, MUI
-    - B/E: Java 17, SpringBoot, JPA, Hibernate, QueryDsl, MSSQL
-  - 프로젝트 인원
-    - PM 1명
-    - F/E 3명(PL 1명 포함)
-    - B/E 3명(PL 1명 포함)
-
-</details>
-
-<br />
-
- ### 2024.02. ~ 지속 | 헥톤프로젝트 테크 블로그, 신규 개발
-<details>
-  <summary>상세 보기</summary>
- 
-  - 프로젝트 기간
-    - 약 7개월(9월 말 종료 예정)
-  - 설명
-    - 헥톤프로젝트 테크 블로그 사이드 프로젝트
-  - 포지션
-    - 풀스택 개발자
-  - 성과
-    1. 기술 스택 도입을 위한 기술 조사 및 검토 후 발표
-        - 스프링 부트 프레임워크를 사용한 백엔드 서버 구축과 추후 운영에 대한 기술 조사 및 검토 후 발표
-        - 조사과정 중 자바와 스프링 프레임워크, 그리고 JVM 등에 대한 역사와 장/단점 등에 대한 깊은 조사 및 공유를 통해 기술 스택 도입에 대한 정당성을 확보
-    2. 백엔드 프로젝트 아키텍처 설계 및 구현을 위한 디자인 패턴 조사 및 검토 후 발표
-        - 아키텍처 설계 레벨에서의 디자인 패턴 조사(Layerd Architectrue)
-        - 전반적인 폴더/파일 구조 형태 관련 디자인 패턴 조사(MVC)
-        - 비즈니스 로직 관련 디자인 패턴 조사(Factory Method Pattern)
-        - JPA 도입을 위한 디자인 패턴 조사(Repository Pattern, Data Mapper Pattern)
-    3. ERD 스키마 설계를 통한 데이터베이스 테이블 구조 구성 및 검토 후 발표
-    4. 백엔드 프로젝트 초기 기반 셋팅 및 빌드를 위한 보안 분야 조사 및 검토 후 발표
-        - Spring Boot를 통한 기반 셋팅
-        - Spring Security와 JWT를 적절히 통합한 보안 파일 구조 설계
-        - 기반이 되는 자사 프로젝트 N개 분석 후 발표
-    5. 프로젝트 전반 와이어프레임(Wireframe) 구성
-        - uizard의 AI 구성 보조 툴을 이용하여 프로젝트 전반 페이지에 해당하는 내용 구성
-        - 해당 내용 중 실제 버튼 클릭 시 해당되는 페이지로 이동하게끔 하는 목업 단계의 디자인 구성
-        - 최종적으로 전체 페이지 구성 후 PPT 스토리북형태로 구성하여 검토 후 발표
-        - 피드백 수령하여 적용(현재)
-  - 사용스택
-    - F/E: TypeScript, Next.js 13v, Zustand, MUI
-    - B/E: Java 17, SpringBoot, JPA, Hibernate, QueryDsl, MSSQL
-  - 프로젝트 인원
-    - PM 1명
-    - FullStack 6명
-
-</details>
-
-<br />
-
-
-### 2024.04. ~ 2024.05. | 또하나의가족 통합관리시스템 - 수급자 조회 고도화 & 관리자 공지사항 신규 개발
-<details>
-  <summary>상세 보기</summary>
-  
-  - 프로젝트 기간
-    - 약 2개월
-  - 설명
-    - 자사에서 인수한 복지용구 사업소 내부 및 외부 영업사원 관리 백오피스 모바일 웹 프로젝트
-    - 기존 개발된 파트인 수급자 조회 부분 고도화 및 신규 프로젝트인 관리자 사이트 내 공지사항 목록과 검색기능 개발
-  - 역할
-    - 프론트엔드 개발자
-  - 성과
-    1. 통합관리시스템 | 수급자조회 고도화
-        - 기존 통합관리시스템 내 수급자조회 페이지 내 검색조건 일원화, 수급자 검색이력 BottomUpSheet 모달 공통 컴포넌트화, 고객 상세 페이지 내 구매 가능한 복지용구 물품 목록 검색 기능 추가
-        - 디자이너와 피그마를 통한 협업으로 시안과 통일성 있는 스타일링 적용  
-    2. 통합관리시스템 관리자 | 공지사항 신규 개발
-        - 통합관리시스템 관리자 프로젝트 신규개발건 중 공지사항 목록과 검색조건, 그리고 개별 로우에서 데이터 수정을 할 수 있게끔 개발
-        - React-Query와 React-Hool-Form을 통해 무한스크롤이 아닌 숫자클릭 형태의 페이지네이션 기능 신규개발
-        - 즉, 개별 탭과 검색조건, 페이지네이션을 종합한 검색가능한 목록 조회 페이지 구성
-- 특이사항
-  - 백엔드를 키워야하는 신규 입사자가 있어 풀스택이 아닌 프론트엔드 파트에 집중
-- 사용스택
-  - F/E: TypeScript, Next.js 13v, Emotion, React-Query, Zustand, ESLint, Prettier, MUI
-  - B/E: Java 17, SpringBoot, JPA, Hibernate, QueryDsl, MSSQL
-- 프로젝트 인원
-  - PM 1명
-  - F/E 3명(PL 1명 포함)
-  - B/E 2명(PL 1명 포함)
-
-</details>
-
-<br />
-
-### 2024.06. ~ 2024.07. | 또하나의가족&또하나의가족 관리자 - 장기요양등급신청, 장기요양등급신청 이력 및 재발송 관리
-<details>
-  <summary>상세 보기</summary>
-
-- 프로젝트 기간
-  - 약 2개월
-- 설명
-  - ”또하나의가족“ : 장기요양수급자와 장기요양기관 사이의 공급&수급을 이어주는 플랫폼 서비스. 고도화가 꾸준히 진행되면서 요양기관이 높은 등급을 받기 위한 가이드 컨텐츠와 수급자의 장기요양등급신청 전 등급확인을 위한 테스트 기능도 추가됨
-  - “또하나의가족 관리자” : 또하나의가족 서비스 내 컨텐츠, 또하나의가족 파트너스(요양기관 전용) 내부 공지 등에 대해 본사에서 관리하는 어드민 프로젝트
-- 역할
-  - 풀스택 개발자
-- 성과
-  1. 또하나의가족 관리자 | 대시보드 고도화
-      - 또하나의가족 관리자(이하 관리자)는 레거시한 스택(angular.js 1.8v, jsp, java가 하나의 프로젝트)으로 구성되어 있기에 별도의 소스분석 기간이 필요
-      - 대시보드 부분에는 기존 회원가입수, 기관등록수 등이 존재했으며, 장기요양등급테스트와 등급신청에 대한 내용은 금번에 신규로 추가
-      - 대시보드는 KendoUI 내 그래프를 통해 구성하였으며, 하단부 테이블은 angular 문법의 jsp로 구성
-  
-  2. 또하나의가족 관리자 | 장기요양등급신청 관리 신규 메뉴 개발
-      - 장기요양등급신청 관리에 대한 별도 메뉴 페이지 신규개발을 통해 등급신청과 관련된 웹팩스 발송이력 관리 기능 개발
-      - 목록 테이블에서는 전반적인 정보와 발송완료 구분을 할 수 있고, 재전송 버튼이 존재
-      - 개별 로우 클릭시 발생하는 상세 모달에서는 해당 수급자의 상세정보와 등급신청시 실제 신청자가 누군지에 대한 정보 및 해당 수급자의 전체 등급신청 발송이력 확인 가능(재전송 기능 존재)
-  
-  3. 또하나의가족 | 장기요양등급신청 기능 신규 개발
-      - 장기요양등급신청 기능 신규개발을 할 수 있는 단계별 신청 페이지 구성
-      - 기존 장기요양등급테스트와 연계되어 테스트가 끝나면 신청 페이지로 이동할 수 있게끔 가이드
-      - 장기요양등급신청에 대해 웹펙스 기능을 추가하여 필요한 서류 업로드 및 정보 입력 시 직접 공단 방문 혹은 팩스를 보내지 않아도 손쉽게 등급신청을 할 수 있게하는 기능 추가
-- 사용스택
-  - 또하나의가족
-    - F/E: TypeScript, Next.js 13v, Emotion, React-Query, Zustand, ESLint, Prettier
-    - B/E: Node.js, Expressjs, MySQL, ..etc
-  - 또하나의가족 관리자
-    - Angular.js 1.8v, JSP, Java, MySQL, KendoUI, ..etc
-- 프로젝트 인원
-  - PM 1명
-  - FullStack 2명(PL 1명 포함)
-  - B/E 1명
-
-</details>
 
 <br />
 <br />
@@ -320,7 +99,7 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 - Back End
   - Node.js, Express
   - Java 17, SpringBoot, JPA, Hibernate, QueryDsl
-  - Python
+  - Python, FastAPI, Alembic
   - MySQL, MongoDB, MSSQL
   - WorkBench, DBeaver
  
@@ -343,8 +122,21 @@ xt.js, SASS, Redux, Zustand 등의 스택을 지속적으로 사용해 왔습니
 - 2023.11.24.
 - 2024.01.07.
 - 2024.03.01.
-- 2025.06.16.
+- 2024.06.16.
+- 2025.04.16.
+
+<br />
+
+## Links
+
+[개인 포트폴리오 겸 블로그](https://basilry.kim)
+<br />
+[두껍아두껍아](https://toadx2.com)
+<br />
+[네이버블로그(구)](https://blog.naver.com/basilry)
 
 <br />
 
 ---
+
+
