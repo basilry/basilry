@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient%&height=400&section=header&text=FrontEnd😈BasilryKim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient%&height=400&section=header&text=FullStack😈BasilryKim&fontSize=70)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/basilry/)
 
 <br />
