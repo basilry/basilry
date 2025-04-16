@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient%&height=400&section=header&text=FrontEnd😈BasilryKim&fontSize=70)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilry&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/basilry/)
 
 <br />
 <!-- Frontend & Language -->
@@ -48,10 +50,10 @@
 <br/>
 헥톤프로젝트에서의 3년간 웹 풀스택 개발 경력을 갖고, 코드잇으로의 이직을 통해 다양한 프로그래밍 언어와 기술을 숙련하고 지식을 공유할 수 있는 기회를 얻
 었습니다. 이러한 경험들을 통해 전반적인 프론트엔드부터 백엔드, 클라우드 인프라까지 넓은 범위의 개발 경험을 쌓으면서 문제해결능력을 키우고 있습니다. 또
-한, 주기적으로 AWS Summit과 헬스테크 박람회, 한국소프트웨어대전 등 다양한 컨퍼런스와 세미나에도 참석하며 트렌드에 민감해지려 합니다.
+한, 주기적으로 AWS Summit과 헬스테크 박람회, 한국소프트웨어대전 등 다양한 컨퍼런스와 세미나에도 참석하며 새로운 트렌드에 민감해지고자 합니다.
 <br/>
 <br/>
-앞으로도 이러한 웹 풀스택 개발 역량을 넘어서 귀사에서 목표하고자하는 업무에 최선을 다해 기여함과 동시에, 좋은 동료들 및 회사와 함께 지속적이고 끊임없이
+앞으로도 이러한 웹 풀스택 개발 역량을 넘어서 조직에서 목표하고자하는 업무에 최선을 다해 기여함과 동시에, 좋은 동료들 및 회사와 함께 지속적이고 끊임없이
 성장하고 싶습니다.
 <br/>
 <br/>
